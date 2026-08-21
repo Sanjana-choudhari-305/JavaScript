@@ -25,5 +25,3 @@ console.log(all*=5);
 console.log("Strictly equal",2!==2, "is",2!=='2');
 
 //Logical operators
-/*let x=3;
-console.log((x<5)) //Sir sent ig*/
